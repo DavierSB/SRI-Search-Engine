@@ -1,0 +1,10 @@
+ir_dataser
+spacy
+json
+gensim
+Levenshtein
+nltk
+re
+streamlit
+pandas
+os
